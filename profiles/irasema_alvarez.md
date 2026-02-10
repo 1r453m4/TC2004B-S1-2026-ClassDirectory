@@ -1,23 +1,21 @@
-# Mauricio González Soto
+# Irasema Alvarez Treviño - A01286449
 
-**Rol:** Profesor de TC2004B 
-**Especialidad:** Estadistica Bayesiana, Filosofía de la Probabilidad, Machine Learning, Data Science
+**Rol:** Estudiante
+
 
 ## Sobre mí
-Matemático por el ITAM, 
-Mtro en Data Science por el ITAM
-PhD en CS por el INAOE. 
-Postdoc Universidad de Viena
-Profesor de planta en el Tec de Monterrey.
+ Estudiante de IDM de cuarto semestre
+ Originaria de Monterrey, Nuevo Leon.
+ Me interesa Data Science por las formas en que se pueden aplicar las matematicas para el analisis y resolucion de problemas.
 
 ## Tech Stack
-- Python, R
-- scikit-learn, PyTorch
-- Git, LaTeX
+- Python
+- C++
+- R
+- Microsoft 365
 
 ## Fun Fact
-Reprobé el examen de admisión al kinder
+Fun fact: ¡Mi banda favorita es Depeche Mode!
 
 ## Links
-- GitHub: [@mauriciogs99](https://github.com/mauriciogs99)
-- Email: mauricio.gonzalez.soto@tec.mx
+- Email: a01286449@tec.mx
